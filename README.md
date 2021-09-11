@@ -1,4 +1,4 @@
-# A Drum Machine Using Vanilla JS
+# A JavaScript Wall Clock
 
 ## Table of contents
 
